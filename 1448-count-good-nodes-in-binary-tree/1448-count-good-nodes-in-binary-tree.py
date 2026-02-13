@@ -5,27 +5,21 @@
 #         self.left = left
 #         self.right = right
 
-# 1. 문제 이해
-# - Find Good Node
-# - Good Node: No nodes with a value greater than current node (current should be the greatest num in the path)
-# 2. 문제 설계
-# - Traverse (dfs)
-# - maximumVal, node
-# - int
+# Iteratively
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        def dfs(node, maximumVal):
-            if not node:
-                return 0
+        stack = [(root, float('-inf'))]
 
-            left = dfs(node.left, max(maximumVal, node.val))
-            right = dfs(node.right, max(maximumVal, node.val))
-            
-            count = left + right
+        result = 0
 
-            if node.val >= maximumVal:
-                count += 1
+        while stack:
+            node, max_val = stack.pop()
+            if node.val >= max_val:
+                result += 1
             
-            return count
-        
-        return dfs(root, float('-inf'))
+            if node.left:
+                stack.append((node.left, max(node.val, max_val)))
+            if node.right:
+                stack.append((node.right, max(node.val, max_val)))
+            
+        return result
