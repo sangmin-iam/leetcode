@@ -9,9 +9,13 @@ class Solution:
         min_val = root.val
     
         while root:
-            if abs(root.val - target) < abs(min_val - target) or (abs(root.val - target) == abs(min_val - target) and root.val < min_val):
+            is_smaller = abs(root.val - target) < abs(min_val - target)
+            is_tie_break = (abs(root.val - target) == abs(min_val - target) and root.val < min_val)
+
+            if abs(root.val - target) < abs(min_val - target) or is_tie_break:
                 min_val = root.val
-            elif root.val < target:
+                
+            if root.val < target:
                 root = root.right
             else:
                 root = root.left
