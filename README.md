@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/sangmin-iam/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sangmin-iam/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sangmin-iam/leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
