@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0270-closest-binary-search-tree-value](https://github.com/sangmin-iam/leetcode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sangmin-iam/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sangmin-iam/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sangmin-iam/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Depth-First Search
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sangmin-iam/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/sangmin-iam/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sangmin-iam/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sangmin-iam/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sangmin-iam/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0270-closest-binary-search-tree-value](https://github.com/sangmin-iam/leetcode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sangmin-iam/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sangmin-iam/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sangmin-iam/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -50,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sangmin-iam/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/sangmin-iam/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sangmin-iam/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sangmin-iam/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -88,5 +92,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 <!---LeetCode Topics End-->
