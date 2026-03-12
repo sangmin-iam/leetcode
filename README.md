@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sangmin-iam/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/sangmin-iam/leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sangmin-iam/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0542-01-matrix](https://github.com/sangmin-iam/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/sangmin-iam/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sangmin-iam/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/sangmin-iam/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sangmin-iam/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/sangmin-iam/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Hash Table
@@ -94,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/sangmin-iam/leetcode/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
