@@ -26,8 +26,6 @@ class Solution:
             for _ in range(current_level_node):
                 y, x, distance = queue.popleft()
 
-                mat[y][x] = distance
-
                 for dy, dx in directions:
                     next_y = y + dy
                     next_x = x + dx
@@ -37,5 +35,6 @@ class Solution:
                     if isNextValid:
                         queue.append((next_y, next_x, next_distance))
                         visited.add((next_y, next_x))
+                        mat[next_y][next_x] = distance
 
         return mat
