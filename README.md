@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangmin-iam/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sangmin-iam/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sangmin-iam/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sangmin-iam/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangmin-iam/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sangmin-iam/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangmin-iam/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
