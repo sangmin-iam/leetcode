@@ -35,6 +35,6 @@ class Solution:
                     if isNextValid:
                         queue.append((next_y, next_x, next_distance))
                         visited.add((next_y, next_x))
-                        mat[next_y][next_x] = distance
+                        mat[next_y][next_x] = next_distance
 
         return mat
