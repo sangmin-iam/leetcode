@@ -7,31 +7,21 @@
 
 class Solution:
     def canReach(self, arr: List[int], start: int) -> bool:
-        adj = defaultdict(list)
-
-        n = len(arr)
-        for i in range(n):
-            left = i - arr[i]
-            right = i + arr[i]
-
-            if left >= 0:
-                adj[i].append(left)
-
-            if right < n:
-                adj[i].append(right)
-        
         queue = deque()
         queue.append(start)
         visited = set({start})
 
         while queue:
-            current_node = queue.popleft()
+            node = queue.popleft()
 
-            for neighbor in adj[current_node]:
-                if neighbor == current_node:
-                    return True
-                
-                if neighbor not in visited:
+            if arr[node] == 0:
+                return True
+
+            for neighbor in [node - arr[node], node + arr[node]]:
+                if neighbor not in visited and 0 <= neighbor < len(arr):
+                    if arr[neighbor] == 0:
+                        return True
+
                     queue.append(neighbor)
                     visited.add(neighbor)
 
