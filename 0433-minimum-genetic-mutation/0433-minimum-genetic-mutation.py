@@ -5,10 +5,9 @@
 
 class Solution:
     def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
-        visited = set(startGene)
-
         queue = deque()
-        queue.append((startGene, 0)) # gene, level
+        queue.append((startGene, 0))
+        visited = set({startGene})
 
         while queue:
             gene, level = queue.popleft()
@@ -18,9 +17,10 @@ class Solution:
 
             for i in range(len(gene)):
                 for ch in 'ACGT':
-                    new_gene = gene[:i] + ch + gene[i + 1:]
-                    if new_gene not in visited and new_gene in bank:
-                        queue.append((new_gene, level + 1))
-                        visited.add(new_gene)
+                    next_gene = gene[:i] + ch + gene[i + 1:]
+
+                    if next_gene in bank and next_gene not in visited:
+                        queue.append((next_gene, level + 1))
+                        visited.add(next_gene)
         
         return -1
