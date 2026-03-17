@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/sangmin-iam/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sangmin-iam/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sangmin-iam/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sangmin-iam/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sangmin-iam/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sangmin-iam/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sangmin-iam/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sangmin-iam/leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sangmin-iam/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangmin-iam/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1306-jump-game-iii](https://github.com/sangmin-iam/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sangmin-iam/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -133,4 +137,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/sangmin-iam/leetcode/tree/main/0399-evaluate-division/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 <!---LeetCode Topics End-->
