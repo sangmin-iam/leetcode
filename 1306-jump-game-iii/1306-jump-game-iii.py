@@ -19,9 +19,6 @@ class Solution:
 
             for neighbor in [node - arr[node], node + arr[node]]:
                 if neighbor not in visited and 0 <= neighbor < len(arr):
-                    if arr[neighbor] == 0:
-                        return True
-
                     queue.append(neighbor)
                     visited.add(neighbor)
 
