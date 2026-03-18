@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/sangmin-iam/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/sangmin-iam/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/sangmin-iam/leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0399-evaluate-division](https://github.com/sangmin-iam/leetcode/tree/main/0399-evaluate-division/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/sangmin-iam/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/sangmin-iam/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/sangmin-iam/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sangmin-iam/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/sangmin-iam/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0399-evaluate-division](https://github.com/sangmin-iam/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/sangmin-iam/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/sangmin-iam/leetcode/tree/main/0752-open-the-lock/) | Medium |
