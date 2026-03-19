@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0752-open-the-lock](https://github.com/sangmin-iam/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sangmin-iam/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangmin-iam/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1306-jump-game-iii](https://github.com/sangmin-iam/leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -148,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
