@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/sangmin-iam/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sangmin-iam/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -153,4 +154,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 <!---LeetCode Topics End-->
