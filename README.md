@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-snakes-and-ladders](https://github.com/sangmin-iam/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/sangmin-iam/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangmin-iam/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1306-jump-game-iii](https://github.com/sangmin-iam/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sangmin-iam/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -156,11 +157,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sangmin-iam/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/sangmin-iam/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/sangmin-iam/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Two Pointers
