@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangmin-iam/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1306-jump-game-iii](https://github.com/sangmin-iam/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sangmin-iam/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sangmin-iam/leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -155,10 +156,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sangmin-iam/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
