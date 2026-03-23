@@ -1,28 +1,20 @@
-# TC: O(n)
-# SC: O(n)
+# TC: O(n log k)
+# SC: O(n + k)
 
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        result = []
-        # 1. HashMap Count
-        count = {}
-
-        for n in nums:
-            count[n] = count.get(n, 0) + 1
-
-        # 2. frequency
-        frequency = [[] for _ in range(len(nums) + 1)]
-
-        # 3. [] - index -> count, value -> num
-        for n, cnt in count.items():
-            frequency[cnt].append(n)
+        # 1. Hashmap Count (num: count)
+        counts = Counter(nums)
         
-        # 4. 뒤에서 앞으로 오면서 하나씩 확인하고 있으면 k를 1씩 줄이고, result 배열에 담기
-        for i in range(len(nums), 0, -1):
-            for n in frequency[i]:
-                result.append(n)
-                if len(result) == k:
-                    return result
+        # 2. Get top k elements using min heap
+        heap = [] # min heap (count, num)
+        for num, count in counts.items():
+            heapq.heappush(heap, (count, num))
+            if len(heap) > k:
+                heapq.heappop(heap)
+        
+        result = [pair[1] for pair in heap]
         
         return result
+
         
