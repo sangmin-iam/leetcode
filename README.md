@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/sangmin-iam/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0270-closest-binary-search-tree-value](https://github.com/sangmin-iam/leetcode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sangmin-iam/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sangmin-iam/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sangmin-iam/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sangmin-iam/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0399-evaluate-division](https://github.com/sangmin-iam/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0542-01-matrix](https://github.com/sangmin-iam/leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0752-open-the-lock](https://github.com/sangmin-iam/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sangmin-iam/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sangmin-iam/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sangmin-iam/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/sangmin-iam/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sangmin-iam/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sangmin-iam/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sangmin-iam/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sangmin-iam/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
