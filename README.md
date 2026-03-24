@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0752-open-the-lock](https://github.com/sangmin-iam/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sangmin-iam/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sangmin-iam/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/sangmin-iam/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
@@ -152,10 +153,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sangmin-iam/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sangmin-iam/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sangmin-iam/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/sangmin-iam/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -190,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sangmin-iam/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sangmin-iam/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangmin-iam/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sangmin-iam/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangmin-iam/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sangmin-iam/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
