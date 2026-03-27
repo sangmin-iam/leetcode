@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1167-minimum-cost-to-connect-sticks](https://github.com/sangmin-iam/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sangmin-iam/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1306-jump-game-iii](https://github.com/sangmin-iam/leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/sangmin-iam/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sangmin-iam/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/sangmin-iam/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/sangmin-iam/leetcode/tree/main/0502-ipo/) | Hard |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/sangmin-iam/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1323-maximum-69-number](https://github.com/sangmin-iam/leetcode/tree/main/1323-maximum-69-number/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/sangmin-iam/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sangmin-iam/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sangmin-iam/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sangmin-iam/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/sangmin-iam/leetcode/tree/main/0502-ipo/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/sangmin-iam/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sangmin-iam/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
