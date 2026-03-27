@@ -9,10 +9,11 @@
 
 class Solution:
     def maximum69Number (self, num: int) -> int:
-        stringNum = str(num)
-        n = len(stringNum)
-        for i, digit in enumerate(stringNum):
-            if digit == '6':
-                return int(stringNum[:i] + '9' + stringNum[i + 1:n])
+        numList = list(str(num)) # O(n)
+
+        for i, char in enumerate(numList): # O(n)
+            if char == '6':
+                numList[i] = '9'
+                break
         
-        return num
+        return int("".join(numList)) # O(n)
