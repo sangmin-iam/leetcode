@@ -1,35 +1,39 @@
+# TC: log n + log m = O(log n * m)
+# SC: O(1)
+
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        ROWS = len(matrix)
-        COLS = len(matrix[0])
-
+        # 1. Find the row: O(log n)
         top = 0
-        bottom = ROWS - 1
+        bottom = len(matrix) - 1
+        targetRow = -1
 
         while top <= bottom:
-            midRow = (top + bottom) // 2
-            
-            if target < matrix[midRow][0]:
-                bottom = midRow - 1
-            elif target > matrix[midRow][-1]:
-                top = midRow + 1
+            mid = (top + bottom) // 2
+
+            if target < matrix[mid][0]:
+                bottom = mid - 1
+            elif target > matrix[mid][-1]:
+                top = mid + 1
             else:
+                targetRow = mid
                 break
-
-        if not top <= bottom:
+        
+        if targetRow == -1:
             return False
-
+        
+        # 2. Find the target in the row: O(log m)
         left = 0
-        right = COLS - 1
-        targetRow = (top + bottom) // 2
+        right = len(matrix[0])
+
         while left <= right:
             mid = (left + right) // 2
-            
-            if target < matrix[targetRow][mid]:
-                right = mid - 1
-            elif target > matrix[targetRow][mid]:
+
+            if matrix[targetRow][mid] == target:
+                return True
+            elif matrix[targetRow][mid] < target:
                 left = mid + 1
             else:
-                return True
+                right = mid - 1
         
         return False
