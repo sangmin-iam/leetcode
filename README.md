@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sangmin-iam/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sangmin-iam/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0704-binary-search](https://github.com/sangmin-iam/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sangmin-iam/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sangmin-iam/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sangmin-iam/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0695-max-area-of-island](https://github.com/sangmin-iam/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0704-binary-search](https://github.com/sangmin-iam/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0752-open-the-lock](https://github.com/sangmin-iam/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sangmin-iam/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sangmin-iam/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
